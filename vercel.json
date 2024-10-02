@@ -1,0 +1,7 @@
+{
+    "build" : {
+        "env" : {
+            "GO_BUILDS_FLAGS" : "-ldflags '-s -w'"
+        }
+    }
+}
